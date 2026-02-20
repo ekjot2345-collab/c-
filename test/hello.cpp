@@ -52,7 +52,7 @@ int main(){
 
 
 //int,long,longlong,float,double
-// string and getline
+// string and getline/
 //char
    
 
